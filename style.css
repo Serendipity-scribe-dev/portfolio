@@ -165,7 +165,7 @@ nav{
 }
 
 #picture img{
-	/*border-radius: 50%;*/
+	border-radius: 50%;
 	width: 80%;
 	height: 70%;
 	margin: 22% 10% 10% 10%;
