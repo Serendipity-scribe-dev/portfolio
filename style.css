@@ -169,6 +169,11 @@ nav{
 	width: 80%;
 	height: 70%;
 	margin: 22% 10% 10% 10%;
+	image-rendering: -moz-crisp-edges;
+    	image-rendering: -o-crisp-edges;
+    	mage-rendering: -webkit-optimize-contrast;
+    	image-rendering: pixelated;
+    	-ms-interpolation-mode: nearest-neighbor;
 }
 
 #quote{
